@@ -1,0 +1,1925 @@
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'main.py')
+  File "/opt/alt/python39/lib64/python3.9/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 711, in _load
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "main.py", line 2, in <module>
+    from flask_socketio import join_room, leave_room, send, SocketIO,emit
+ModuleNotFoundError: No module named 'flask_socketio'
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'main.py')
+  File "/opt/alt/python39/lib64/python3.9/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 711, in _load
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "main.py", line 2, in <module>
+    from flask_socketio import join_room, leave_room, send, SocketIO,emit
+ModuleNotFoundError: No module named 'flask_socketio'
+[UID:7163][2367596] Child process with pid: 2367609 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 9, in <module>
+    application = wsgi.application
+AttributeError: module 'wsgi' has no attribute 'application'
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 9, in <module>
+    application = wsgi.application
+AttributeError: module 'wsgi' has no attribute 'application'
+[UID:7163][1130805] Child process with pid: 1130851 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 9, in <module>
+    application = wsgi.application
+AttributeError: module 'wsgi' has no attribute 'application'
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 9, in <module>
+    application = wsgi.application
+AttributeError: module 'wsgi' has no attribute 'application'
+[UID:7163][1133394] Child process with pid: 1133423 was killed by signal: 15, core dumped: no
+game code: TURE
+game code: JPGG
+game code: JCKV
+game code: BJIU
+game code: WATH
+game code: WIVC
+game code: UECR
+game code: PLSV
+game code: CUUI
+game code: CGVF
+game code: XRCI
+game code: TNVZ
+game code: PZGS
+game code: DTPY
+game code: PZGS
+game code: ZVIV
+game code: DTPY
+game code: DTPY
+game code: DTPY
+game code: ZMYD
+game code: NIGP
+game code: TOHV
+game code: QJWG
+game code: SXPT
+The client is using an unsupported version of the Socket.IO or Engine.IO protocols (further occurrences of this error will be logged with level INFO)
+The client is using an unsupported version of the Socket.IO or Engine.IO protocols (further occurrences of this error will be logged with level INFO)
+Invalid session gFClepXQc2C2CUR8AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session KbLWwdhOcHrexfqhAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session h9LnV_IxSSk9PwHWAAAA (further occurrences of this error will be logged with level INFO)
+room XWXX
+name 1
+1 joined room XWXX
+game code: XWXX
+room XWXX
+name 2
+MIMIC
+2 joined room XWXX
+Invalid session UQ-M03E8Cg8KcvIXAAAC (further occurrences of this error will be logged with level INFO)
+Invalid session UQ-M03E8Cg8KcvIXAAAC (further occurrences of this error will be logged with level INFO)
+room XWXX
+name 1
+room XWXX
+name 2
+room XWXX
+name 2
+room XWXX
+name 2
+Invalid session yAhQChN8FM3r9heGAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session -2oPXOTZEHG4UtGUAAAC (further occurrences of this error will be logged with level INFO)
+[UID:7163][16776] Child process with pid: 16822 was killed by signal: 15, core dumped: no
+game code: QLHR
+Invalid session _xtTTlBQAyEauIFhAAAA (further occurrences of this error will be logged with level INFO)
+game code: ANNW
+room ANNW
+name 1
+1 joined room ANNW
+Invalid session _xtTTlBQAyEauIFhAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session _xtTTlBQAyEauIFhAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session iPNmErfWXZzzbbT4AAAA (further occurrences of this error will be logged with level INFO)
+game code: EVHO
+Invalid session 58iILR06pn7Jig6-AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 58iILR06pn7Jig6-AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session By-9KJjaY6tARofYAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1209807] Child process with pid: 1209975 was killed by signal: 15, core dumped: no
+game code: HZJV
+Invalid session dNInxGy4HkdthIMzAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session dNInxGy4HkdthIMzAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1215610] Child process with pid: 1215646 was killed by signal: 15, core dumped: no
+game code: HFAK
+Invalid session -lOzHhPi7-SKd6mpAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session WRr2ee91CapwERQBAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session vPK_tAe65ps5zvrKAAAC (further occurrences of this error will be logged with level INFO)
+Invalid session vPK_tAe65ps5zvrKAAAC (further occurrences of this error will be logged with level INFO)
+[UID:7163][1224579] Child process with pid: 1225719 was killed by signal: 15, core dumped: no
+room WCCD
+name 1
+room WCCD
+name 1
+1 joined room WCCD
+1 has left the room WCCD
+Invalid session pp3yUDknQQg7xhWjAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session TiRgirWsOBhDVv84AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session snUHbRnJne6UTMbIAAAD (further occurrences of this error will be logged with level INFO)
+room TAOX
+name 1
+1 joined room TAOX
+room TAOX
+name 1
+PASTE
+1 has left the room TAOX
+1 joined room TAOX
+1 has left the room TAOX
+room TAOX
+name 1
+1 has left the room TAOX
+room TAOX
+name 1
+1 has left the room TAOX
+room TAOX
+name 1
+1 has left the room TAOX
+room TAOX
+name 1
+1 has left the room TAOX
+game code: TAOX
+game code: EUJX
+game code: EUJX
+game code: EUJX
+room TAOX
+name 1
+1 joined room TAOX
+room EUJQ
+name 1
+1 joined room EUJQ
+1 has left the room TAOX
+1 has left the room EUJQ
+room EUJQ
+name 1
+Invalid session 5gxwR_9d3Hfs12xPAAAA (further occurrences of this error will be logged with level INFO)
+[ERROR] [UID:7163][1233455] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 292, in handle_request
+    socket = self._get_socket(sid)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/base_server.py", line 229, in _get_socket
+    raise KeyError('Session is disconnected')
+KeyError: 'Session is disconnected'
+Invalid session 5gxwR_9d3Hfs12xPAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session Q90yRhFAxYvZlvilAAAC (further occurrences of this error will be logged with level INFO)
+[UID:7163][1233434] Child process with pid: 1238155 was killed by signal: 15, core dumped: no
+room ZDWT
+name 1
+1 joined room ZDWT
+1 has left the room ZDWT
+room ZDWT
+name 1
+game code: ZDWT
+Invalid session AUSfSLvbnelCAevvAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session AUSfSLvbnelCAevvAAAA (further occurrences of this error will be logged with level INFO)
+game code: FQQY
+Invalid session O1NjTrN0kzYIvEl9AAAA (further occurrences of this error will be logged with level INFO)
+room AQXL
+name 1
+1 joined room AQXL
+Invalid session O1NjTrN0kzYIvEl9AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session ea9_zvYSGCEx51BnAAAA (further occurrences of this error will be logged with level INFO)
+room AQXL
+name 1
+[UID:7163][1245437] Child process with pid: 1245548 was killed by signal: 15, core dumped: no
+Invalid session 3ugan6dR2qJFMX-9AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session O9Ho-92tlamk0OjjAAAA (further occurrences of this error will be logged with level INFO)
+[ERROR] [UID:7163][1253171] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 274, in handle_request
+    packets = socket.handle_get_request(
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+Invalid session y6dUVhFLUZd5BwuwAAAC (further occurrences of this error will be logged with level INFO)
+room ILBW
+name 1
+1 has left the room ILBW
+room ILBW
+name 1
+1 has left the room ILBW
+room ILBW
+name 1
+Invalid session uhXOvIIuEInvIm7YAAAE (further occurrences of this error will be logged with level INFO)
+Invalid session -_4Vk-R9ZGPFYNWQAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 6fTgI40So4LxhtRuAAAA (further occurrences of this error will be logged with level INFO)
+room ILBW
+name 2
+room ILBW
+name 2
+Invalid session _uZFqGX-GppkNEfaAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session XSZ7qgDFuMwUylkQAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session uCpPUf0Inv6YdKmzAAAC (further occurrences of this error will be logged with level INFO)
+[UID:7163][1255852] Child process with pid: 1255866 was killed by signal: 15, core dumped: no
+[UID:7163][1255852] Child process with pid: 1255957 was killed by signal: 15, core dumped: no
+Invalid session 1kIiUC_mneDmTPH8AAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1258180] Child process with pid: 1258197 was killed by signal: 15, core dumped: no
+[UID:7163][1258180] Child process with pid: 1259391 was killed by signal: 15, core dumped: no
+game code: RVPC
+game code: RVPC
+[ERROR] [UID:7163][1260326] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 274, in handle_request
+    packets = socket.handle_get_request(
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+Invalid session oFL-8KnWGvSH3WC-AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session MqxN1D0ea3s0mgHrAAAA (further occurrences of this error will be logged with level INFO)
+room TEWD
+name 1
+1 joined room TEWD
+game code: TEWD
+room TEWD
+name 1
+1 has left the room TEWD
+Invalid session ij9EbGz7kDhkQ6n6AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session ij9EbGz7kDhkQ6n6AAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1264467] Child process with pid: 1264500 was killed by signal: 15, core dumped: no
+game code: YDWB
+Invalid session UA3pL6D8Wt8VWIZeAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1267894] Child process with pid: 1267942 was killed by signal: 15, core dumped: no
+Invalid session jIBV3Uu7IO1bJ3VeAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session t9ZYzwvq5ZBKpcrbAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1271168] Child process with pid: 1271176 was killed by signal: 15, core dumped: no
+Invalid session jIBV3Uu7IO1bJ3VeAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session jIBV3Uu7IO1bJ3VeAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1271168] Child process with pid: 1271654 was killed by signal: 15, core dumped: no
+Invalid session tu1IfbgeSjc-tTSJAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session tu1IfbgeSjc-tTSJAAAA (further occurrences of this error will be logged with level INFO)
+game code: KRBV
+Invalid session tu1IfbgeSjc-tTSJAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session ByKG94StaFJ0pwIXAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session SqJVUtyiBZzjbzM-AAAA (further occurrences of this error will be logged with level INFO)
+1 has left the room KRBV
+None has left the room None
+Invalid session ucjsIi-7CholSqlcAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1380975] Child process with pid: 1381046 was killed by signal: 15, core dumped: no
+Invalid session 2luGWX2SLdfPvqPaAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 2luGWX2SLdfPvqPaAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1408401] Child process with pid: 1408560 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'main.py')
+  File "/opt/alt/python39/lib64/python3.9/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 711, in _load
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "main.py", line 8, in <module>
+    CORS(app,resources={r"/*":{"origins":"*"}})
+NameError: name 'CORS' is not defined
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/home/thecodew/w4/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'main.py')
+  File "/opt/alt/python39/lib64/python3.9/imp.py", line 171, in load_source
+    wsgi = imp.load_source('wsgi', 'main.py')
+  File "/opt/alt/python39/lib64/python3.9/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 711, in _load
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 711, in _load
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "main.py", line 8, in <module>
+  File "main.py", line 8, in <module>
+    CORS(app,resources={r"/*":{"origins":"*"}})
+NameError: name 'CORS' is not defined
+    CORS(app,resources={r"/*":{"origins":"*"}})
+NameError: name 'CORS' is not defined
+[UID:7163][1417736] Child process with pid: 1417770 was killed by signal: 15, core dumped: no
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+Invalid websocket upgrade (further occurrences of this error will be logged with level INFO)
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430490] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+[ERROR] [UID:7163][1430110] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 261, in handle_request
+    r = self._handle_connect(environ, start_response,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 401, in _handle_connect
+    ret = s.handle_get_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
+game code: SWGL
+Invalid session VhKcZ6bJdnkgASHdAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1441752] Child process with pid: 1441814 was killed by signal: 15, core dumped: no
+game code: BCWE
+Invalid session T9EFGMY2jQWEiqsMAAAA (further occurrences of this error will be logged with level INFO)
+game code: ZIVX
+Invalid session T9EFGMY2jQWEiqsMAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session Je3ux6Sp7evjtSB4AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 2RvEFMO7LLDaAmFCAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session P1Vs4ZGQjTaFjpllAAAC (further occurrences of this error will be logged with level INFO)
+1 has left the room ZDZJ
+Invalid session P1Vs4ZGQjTaFjpllAAAC (further occurrences of this error will be logged with level INFO)
+Invalid session i75AOp8qmfr3VSvFAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session i75AOp8qmfr3VSvFAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session Pu51xxWDa3TUqeu5AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 8V2r1JGXFJvUq9gsAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1460815] Child process with pid: 1460828 was killed by signal: 15, core dumped: no
+Invalid session 9hKIk49qG5eJPrg1AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 9hKIk49qG5eJPrg1AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 0bVdBG2cK1UJHL7fAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session qmGNfgHGUSj5Au9EAAAA (further occurrences of this error will be logged with level INFO)
+game code: ZNKU
+Invalid session qmGNfgHGUSj5Au9EAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session EXjox6Qo1kXBI8dKAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session ez7gPpKlv16q3jobAAAA (further occurrences of this error will be logged with level INFO)
+1 has left the room YNRG
+Invalid session EXjox6Qo1kXBI8dKAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session tgsjB6cdQY88QM6_AAAC (further occurrences of this error will be logged with level INFO)
+1 has left the room YNRG
+[UID:7163][1476972] Child process with pid: 1478929 was killed by signal: 15, core dumped: no
+game code: YNRG
+Invalid session hJZpCLmughZH19ExAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session hJZpCLmughZH19ExAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1532122] Child process with pid: 1532184 was killed by signal: 15, core dumped: no
+Invalid session 5nN9cBQpqopnMYU3AAAA (further occurrences of this error will be logged with level INFO)
+game code: ZHDW
+1 has left the room ZHDW
+Invalid session dafWH_dPXJxKLVwOAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][334423] Child process with pid: 334465 was killed by signal: 15, core dumped: no
+Invalid session dafWH_dPXJxKLVwOAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 5ai95kIrls3d7r_6AAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][334423] Child process with pid: 334716 was killed by signal: 15, core dumped: no
+[UID:7163][334423] Child process with pid: 334536 was killed by signal: 15, core dumped: no
+Invalid session cJOzb9N3nU1CdtqOAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][334423] Child process with pid: 334733 was killed by signal: 15, core dumped: no
+Invalid session tyTP2HpUVf5aI-WhAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][3678752] Child process with pid: 3678835 was killed by signal: 15, core dumped: no
+Invalid session YVSRW7q-duAjVEGjAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][3797757] Child process with pid: 3797797 was killed by signal: 15, core dumped: no
+Invalid session 9sYWp1MagggV9jdZAAAA (further occurrences of this error will be logged with level INFO)
+[UID:7163][1847253] Child process with pid: 1847287 was killed by signal: 15, core dumped: no
+Invalid session G5HsLdn6G4e-iOjMAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session AwkbuJEGZoqt7w0rAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session 0Kaa5xIecHzHI_3-AAAA (further occurrences of this error will be logged with level INFO)
+Invalid session DcfuS5nkPHXPQ6IpAAAC (further occurrences of this error will be logged with level INFO)
+[UID:7163][3188309] Child process with pid: 3189307 was killed by signal: 15, core dumped: no
+[UID:7163][3188309] Child process with pid: 3188365 was killed by signal: 15, core dumped: no
+[UID:7163][3188309] Child process with pid: 3189510 was killed by signal: 15, core dumped: no
+Invalid session FFZV3GvFdT8ByeUAAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session -Hxh6s4qzbEh9tg9AAAA (further occurrences of this error will be logged with level INFO)
+game code: bnjl.
+1 has left the room VCYC
+1 has left the room VCYC
+Invalid session gmBd40W_9jIRUWkgAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session OKHl17kxKVFfsRqxAAAA (further occurrences of this error will be logged with level INFO)
+1 has left the room RCSY
+Invalid session ER-kozakCxGPfywZAAAA (further occurrences of this error will be logged with level INFO)
+Invalid session ER-kozakCxGPfywZAAAA (further occurrences of this error will be logged with level INFO)
+[ERROR] [UID:7163][753063] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    return super(_SocketIOMiddleware, self).__call__(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/middleware.py", line 63, in __call__
+    return self.engineio_app.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/socketio/server.py", line 430, in handle_request
+    return self.eio.handle_request(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/server.py", line 274, in handle_request
+    packets = socket.handle_get_request(
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 90, in handle_get_request
+    return getattr(self, '_upgrade_' + transport)(environ,
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/socket.py", line 146, in _upgrade_websocket
+    return ws(environ, start_response)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/engineio/async_drivers/_websocket_wsgi.py", line 14, in __call__
+    self.ws = simple_websocket.Server(environ, **self.server_args)
+  File "/home/thecodew/virtualenv/w4/3.9/lib/python3.9/site-packages/simple_websocket/ws.py", line 285, in __init__
+    raise RuntimeError('Cannot obtain socket from WSGI environment.')
+RuntimeError: Cannot obtain socket from WSGI environment.
