@@ -1228,56 +1228,70 @@ def lobby():
 
 @app.route("/create_room")
 def create_room1():
-    game_code=generate_unique_code(4)
-    room = game_code
-    rooms[room] = {"members": 0}
-    session["room"] = room
+    game_code = generate_unique_code(4)
+    rooms[game_code] = {
+        "members": 0,
+        "max_members": 2,
+        "player1": None,
+        "player2": None,
+        "word": generate_word()  # Generate word immediately
+    }
+    session["room"] = game_code
     session["name"] = "1"
-    
+    return render_template('newroom.html', game_code=game_code, name="1", opname="2")
 
-    return render_template('newroom.html', game_code=game_code , name="1", opname="2")
-
-@app.route("/join_room",methods=["POST"])
+@app.route("/join_room", methods=["POST"])
 def join_room1():
-    game_code = request.form["game_code"]
-    print("game code:",game_code)
-    if game_code in rooms and rooms[game_code]["members"] == 1:
-        session["room"] = game_code
-        session["name"] = "2"
-        return render_template('newroom.html', game_code=game_code ,name="2", opname="1")
-    else:
-        return "Invalid game code or room is full"
-
-
+    game_code = request.form["game_code"].strip().upper()
+    
+    # Validation checks
+    if len(game_code) != 4 or not game_code.isalpha():
+        return "Invalid code format (must be 4 letters)"
+    
+    if game_code not in rooms:
+        return "Room doesn't exist"
+        
+    if rooms[game_code]["members"] >= rooms[game_code]["max_members"]:
+        return "Room is full (1v1 only)"
+    
+    session["room"] = game_code
+    session["name"] = "2"  # Always player 2 when joining
+    return render_template('newroom.html', 
+                         game_code=game_code, 
+                         name="2", 
+                         opname="1")
 
 @app.route('/game')
 def game():
     return 'Game page'
 
 
-@socketio.on("connect",namespace="/wordual")
+@socketio.on("connect", namespace="/wordual")
 def connect(auth):
     room = session.get("room")
     name = session.get("name")
-    print("room",room)
-    print("name",name)
-    if not room or not name:
-        return
-    if room not in rooms:
-        leave_room(room)
-        return
-
+    
+    # Validate connection
+    if not room or not name or room not in rooms:
+        return False  # Reject
+    
+    # Assign player slot
+    player_key = f"player{name}"
+    if rooms[room][player_key] is None:
+        rooms[room][player_key] = request.sid
+        rooms[room]["members"] += 1
+    else:
+        return False  # Reject duplicate
+    
     join_room(room)
-    rooms[room]["members"] += 1
-    if rooms[room]["members"]==2:
-        word1=generate_word()
-        word={"word":word1}
-        emit('player_join',word,broadcast=True)
-
-
-    print(f"{name} joined room {room}")
-
-
+    
+    # Start game when both connected
+    if rooms[room]["members"] == 2:
+        emit('game_start', {
+            "word": rooms[room]["word"],
+            "playerNumber": int(name)
+        }, room=room)
+        
 @socketio.on("disconnect")
 def disconnect():
     room = session.get("room")
