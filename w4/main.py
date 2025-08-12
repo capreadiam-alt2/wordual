@@ -9,9 +9,9 @@ app.config["SECRET_KEY"] = "your-secret-key"
 socketio = SocketIO(app, cors_allowed_origins="*", manage_session=False, logger=True, engineio_logger=True)
 
 # Room storage: {room_code: {players: {player_id: data}, word: str, game_started: bool}}
-rooms = defaultdict(dict)
+rooms = {}
 # Player storage: {socket_id: {room_code, player_id, nickname}}
-players = defaultdict(dict)
+players = {}
 
 def generate_unique_code(length):
     while True:
