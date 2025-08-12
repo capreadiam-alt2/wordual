@@ -1201,9 +1201,6 @@ def generate_word():
                  "zooid", "zooks", "zooms", "zoons", "zooty", "zoppa", "zoppo", "zoril", "zoris", "zorro", "zouks",
                  "zowee", "zowie", "zulus", "zupan", "zupas", "zuppa", "zurfs", "zuzim", "zygal", "zygon", "zymes",
                  "zymic"]
-
-
-
     guessList = guessList+wordList
     return random.choice(wordList).upper()
 
