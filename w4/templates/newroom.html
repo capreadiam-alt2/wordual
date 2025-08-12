@@ -428,7 +428,10 @@ function updateButtonState() {
 // Show opponent's board
 function showPopup(content) {
     const popup = document.getElementById('popupDiv');
-    popup.innerHTML = `<h3>${opponentNickname}'s Board</h3>` + content;
+    popup.innerHTML = `
+        <h3 style="font-family: 'Secular One'; margin-bottom: 20px;">${opponentNickname}'s Board</h3>
+        <div class="popup-board">${content}</div>
+    `;
     popup.style.display = 'block';
     setTimeout(() => popup.style.display = 'none', 3000);
 }
